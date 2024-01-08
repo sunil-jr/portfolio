@@ -25,8 +25,8 @@ const Body = () => {
       <div className="absolute top-0 left-0 right-0 flex flex-row-reverse items-center  justify-center max-md:flex-col max-md:items-center ">
         <div className="image">
           <img
-            className="h-[25rem] max-md:h-[20rem] drop-shadow-2xl "
-            src={"./stokePPP.png"}
+            className="h-[35rem] max-md:h-[10rem] drop-shadow-2xl "
+            src={"./sunil.png"}
           />
         </div>
         <div className="gap w-[10%]"></div>
